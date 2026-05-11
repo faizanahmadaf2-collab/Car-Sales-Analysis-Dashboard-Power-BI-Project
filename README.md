@@ -10,16 +10,15 @@ The dataset contains detailed information about car purchases, including custome
 
 - Sales performance analysis by Company, Model, and Dealer Region
 - Revenue trends and pricing distribution
+- Regional dealership performance tracking
+- Interactive filters and drill-through capabilities
+- Dynamic dashboards with clean and user-friendly design
 
 Vehicle analysis by
 - Engine Type
 - Transmission
 - Body Style
 - Color
-
-- Regional dealership performance tracking
-- Interactive filters and drill-through capabilities
-- Dynamic dashboards with clean and user-friendly design
 
 **🛠️ Tools & Technologies Used**
 - Power BI
