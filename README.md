@@ -1,3 +1,5 @@
+**🚗 Car Sales Analysis Dashboard | Power BI Project**********
+
 This Power BI project presents an interactive Car Sales Analysis Dashboard built using a real-world automotive sales dataset. The dashboard provides insights into customer demographics, dealership performance, vehicle preferences, and sales trends to support data-driven business decisions.
 
 **📊Project Overview**
